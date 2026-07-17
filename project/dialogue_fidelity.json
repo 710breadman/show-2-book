@@ -1,0 +1,388 @@
+{
+  "quoted_passages": 54,
+  "matched_at_or_above_threshold": 53,
+  "manual_review": 0,
+  "approved_book_additions": 1,
+  "minimum_match_score": 0.857,
+  "review_threshold": 0.85,
+  "results": [
+    {
+      "physical_page": 2,
+      "book_dialogue": "Ladies and gentlemen, I will now play for you the rondo 'Alla Turca,'",
+      "status": "matches_subtitles",
+      "score": 0.977,
+      "best_subtitle_window": "Ladies and gentlemen, I will now play for you the rondo \"Alla Turca.\""
+    },
+    {
+      "physical_page": 2,
+      "book_dialogue": "Hmm, hmm, hmm!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Hmm, hmm, hmm!"
+    },
+    {
+      "physical_page": 2,
+      "book_dialogue": "Hey! Piano!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Hey! Piano! [grunts]"
+    },
+    {
+      "physical_page": 3,
+      "book_dialogue": "Dad! I want to be the piano,",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Dad! I want to be the piano."
+    },
+    {
+      "physical_page": 3,
+      "book_dialogue": "No! It's still my turn,",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "No! It's still my turn."
+    },
+    {
+      "physical_page": 3,
+      "book_dialogue": "Taking turns can be difficult.",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Taking turns can be difficult."
+    },
+    {
+      "physical_page": 3,
+      "book_dialogue": "Dad! She's had this many turns!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Dad! She's had this many turns!"
+    },
+    {
+      "physical_page": 4,
+      "book_dialogue": "You can be the bum-bongos!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "You can be the bum bongos!"
+    },
+    {
+      "physical_page": 4,
+      "book_dialogue": "Bluey, look!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Bluey! Look!"
+    },
+    {
+      "physical_page": 5,
+      "book_dialogue": "Quick, Bingo! Get the dinger thing!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Quick, Bingo! Get the dinger thing!"
+    },
+    {
+      "physical_page": 5,
+      "book_dialogue": "Let me up! Let me out of here!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Let me up! Let me out of here!"
+    },
+    {
+      "physical_page": 5,
+      "book_dialogue": "Got it! Do a ding! Freeze!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Got it! Do a ding! Freeze!"
+    },
+    {
+      "physical_page": 5,
+      "book_dialogue": "Yeah! The Magic Xylophone!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "[both] Yeah! The Magic Xylophone!"
+    },
+    {
+      "physical_page": 6,
+      "book_dialogue": "Mum, come and look at this!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Mum, come and look at this!"
+    },
+    {
+      "physical_page": 6,
+      "book_dialogue": "Oh, look! It's just like when we first met.",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Oh, look! It's just like when we first met."
+    },
+    {
+      "physical_page": 6,
+      "book_dialogue": "What?! How did I get fingers up my nose? Oh. The Magic Xylophone!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "What?! [both giggling] How did I get fingers up my nose? Oh. The Magic Xylophone!"
+    },
+    {
+      "physical_page": 7,
+      "book_dialogue": "Bingo, let's get the pens!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Bingo, let's get the pens!"
+    },
+    {
+      "physical_page": 7,
+      "book_dialogue": "Oh, what a splendid moustache you have. Ooh! Lovely.",
+      "status": "matches_subtitles",
+      "score": 0.989,
+      "best_subtitle_window": "Oh, what a splendid mustache you have. Ooh! Lovely."
+    },
+    {
+      "physical_page": 7,
+      "book_dialogue": "It's my turn to unfreeze him.",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "It's <i>my </i>turn to unfreeze him."
+    },
+    {
+      "physical_page": 8,
+      "book_dialogue": "You kids! Give me the magic xylophone!",
+      "status": "matches_subtitles",
+      "score": 0.857,
+      "best_subtitle_window": "[kids shouting playfully] Give me the magic xylophone!"
+    },
+    {
+      "physical_page": 8,
+      "book_dialogue": "Yaha! Too slow, Mr Moustache!",
+      "status": "matches_subtitles",
+      "score": 0.98,
+      "best_subtitle_window": "Yaha! Too slow, Mr Mustache!"
+    },
+    {
+      "physical_page": 9,
+      "book_dialogue": "Bluey, you're taking all the turns freezing,",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Bluey, you're taking all the turns freezing."
+    },
+    {
+      "physical_page": 9,
+      "book_dialogue": "Come on, Bingo. Let's get the teddies.",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Come on, Bingo. Let's get the teddies."
+    },
+    {
+      "physical_page": 10,
+      "book_dialogue": "Mum! Mum! Look at Dad now!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Mum! Mum! Look at Dad now!"
+    },
+    {
+      "physical_page": 10,
+      "book_dialogue": "This loose hair's been bugging me all morning,",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "This loose hair's been bugging me all morning."
+    },
+    {
+      "physical_page": 11,
+      "book_dialogue": "Okay, I'll unfreeze him,",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Okay, I'll unfreeze him."
+    },
+    {
+      "physical_page": 11,
+      "book_dialogue": "I want to do it. Mum, Bluey's not letting me have any turns,",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "I want to do it. Mum, Bluey's not letting me have any turns."
+    },
+    {
+      "physical_page": 11,
+      "book_dialogue": "Bluey, if you don't take turns with people, people won't take turns with you.",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Bluey, if you don't take turns with people, people won't take turns with <i>you.</i>"
+    },
+    {
+      "physical_page": 11,
+      "book_dialogue": "But Bingo's too slow. Dad will catch her!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "But Bingo's too slow. Dad will catch her."
+    },
+    {
+      "physical_page": 12,
+      "book_dialogue": "Here, Bingo,",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Here, Bingo. [horn honks]"
+    },
+    {
+      "physical_page": 12,
+      "book_dialogue": "But stand right back here. That way, you could get a head start. He runs really fast when he's mad.",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "But stand right back here. That way, you could get a head start. He runs really fast when he's mad."
+    },
+    {
+      "physical_page": 12,
+      "book_dialogue": "Okay. Unfreeze!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Okay. Unfreeze!"
+    },
+    {
+      "physical_page": 13,
+      "book_dialogue": "There you are!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "There you are!"
+    },
+    {
+      "physical_page": 13,
+      "book_dialogue": "Run, Bingo! Back inside!",
+      "status": "matches_subtitles",
+      "score": 0.894,
+      "best_subtitle_window": "Grrr! Run, Bingo! Back inside!"
+    },
+    {
+      "physical_page": 13,
+      "book_dialogue": "Bingo! Bluey! Come back here!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "[Dad] Bingo! Bluey! Come back here!"
+    },
+    {
+      "physical_page": 14,
+      "book_dialogue": "Where are they? I can't find them anywhere!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Where are they?! I can't find them anywhere!"
+    },
+    {
+      "physical_page": 14,
+      "book_dialogue": "I think we should freeze him, just in case. Give me the xylophone.",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "I think we should freeze him, just in case. Give me the xylophone."
+    },
+    {
+      "physical_page": 14,
+      "book_dialogue": "No, I want to freeze him! You've had all the freezing turns,",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "No, I want to freeze him! You've had all the freezing turns."
+    },
+    {
+      "physical_page": 15,
+      "book_dialogue": "Got it!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Got it!"
+    },
+    {
+      "physical_page": 15,
+      "book_dialogue": "You ding-dongs were too busy squabbling. Freeze! Freeze, freeze, freeze!",
+      "status": "matches_subtitles",
+      "score": 0.957,
+      "best_subtitle_window": "You ding-dongs were too busy squabbling. [ding] Freeze! [laughs evilly] Aaaah! [ding, ding, ding] Freeze, freeze, freeze!"
+    },
+    {
+      "physical_page": 15,
+      "book_dialogue": "Mwa-ha-ha!",
+      "status": "approved_book_addition",
+      "score": null,
+      "best_subtitle_window": null
+    },
+    {
+      "physical_page": 16,
+      "book_dialogue": "Oh, never mind. She'll keep,",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Oh, never mind. She'll keep."
+    },
+    {
+      "physical_page": 16,
+      "book_dialogue": "Now, look at this lovely new garden gnome. Ahh. This is the perfect spot.",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Now, look at this lovely new garden gnome. Ahh. This is the perfect spot."
+    },
+    {
+      "physical_page": 16,
+      "book_dialogue": "Probably from some mischief! I'd better get the hose.",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Probably from some mischief! I'd better get the hose."
+    },
+    {
+      "physical_page": 16,
+      "book_dialogue": "Nnn! Nnnnn!",
+      "status": "matches_subtitles",
+      "score": 0.941,
+      "best_subtitle_window": "Nnn! Nnnn!"
+    },
+    {
+      "physical_page": 17,
+      "book_dialogue": "Unfreeze me!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "[muffled] Unfreeze me!"
+    },
+    {
+      "physical_page": 17,
+      "book_dialogue": "Thanks, Bingo. Dad's gone to get the hose. Let's go and hi-",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Thanks, Bingo. Dad's gone to get the hose. Let's go and hi-- [ding]"
+    },
+    {
+      "physical_page": 17,
+      "book_dialogue": "Bluey, you always never take turns with me. You just take all of the turns, and it makes me feel sad. I'll unfreeze you if you promise you'll let me have turns, too.",
+      "status": "matches_subtitles",
+      "score": 0.887,
+      "best_subtitle_window": "Bluey, you always never take turns with me. You just take all of the turns. And it makes me feel sad. I will unfreeze you if you promise"
+    },
+    {
+      "physical_page": 18,
+      "book_dialogue": "Okay, time for a little bath, garden gnome!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Okay, time for a little bath, garden gnome!"
+    },
+    {
+      "physical_page": 18,
+      "book_dialogue": "We tricked you! Bingo unfroze me. I was just pretending. Now, Bingo!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "We tricked you! Bingo unfroze me. I was just pretending. Now, Bingo!"
+    },
+    {
+      "physical_page": 19,
+      "book_dialogue": "Blub-blub-blub!",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Blub-blub-blub!"
+    },
+    {
+      "physical_page": 20,
+      "book_dialogue": "Here, Bingo. You can unfreeze him.",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Here, Bingo. You can unfreeze him."
+    },
+    {
+      "physical_page": 20,
+      "book_dialogue": "Thanks, Bluey.",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Thanks, Bluey."
+    },
+    {
+      "physical_page": 20,
+      "book_dialogue": "Not just yet. I like the Daddy water fountain.",
+      "status": "matches_subtitles",
+      "score": 1.0,
+      "best_subtitle_window": "Not just yet. I like the Daddy water fountain."
+    }
+  ]
+}

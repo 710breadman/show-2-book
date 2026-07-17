@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "identity": {
+    "title": "",
+    "official_season": null,
+    "official_episode": null,
+    "local_file_episode": null,
+    "local_source": null,
+    "duration_seconds": null,
+    "source_status": "unverified"
+  },
+  "research": {
+    "official_url": "",
+    "imdb_url": "",
+    "community_urls": [],
+    "official_synopsis": "",
+    "community_resonance": [],
+    "interpretation_notes": [],
+    "spoiler_or_sensitivity_notes": []
+  },
+  "editorial": {
+    "story_thesis": "",
+    "emotional_hinge": "",
+    "understated_subtext": "",
+    "final_message_hypotheses": [],
+    "target_story_pages": [18, 22],
+    "target_words": [500, 800],
+    "target_read_aloud_minutes": [5, 8]
+  },
+  "source_audit": {
+    "embedded_subtitles_extracted": false,
+    "subtitle_cues_normalized": false,
+    "scene_boundaries_detected": false,
+    "candidate_contact_sheets_reviewed": false,
+    "important_dialogue_cross_checked": false
+  },
+  "beats": [
+    {
+      "id": "beat-01",
+      "purpose": "",
+      "start_seconds": null,
+      "end_seconds": null,
+      "subtitle_cues": [],
+      "narration": "",
+      "speaker_attributions": [],
+      "visual_action": "",
+      "frame_timestamp": null,
+      "frame_selection_reason": "",
+      "picture_words": [],
+      "sound_effects": [],
+      "status": "planned"
+    }
+  ],
+  "production": {
+    "format": "10 x 8 inch landscape",
+    "bleed": "none for home proof; printer-specific bleed for press files",
+    "minimum_effective_image_dpi": 240,
+    "target_effective_image_dpi": 300,
+    "font_roles": {
+      "display": "playful rounded display face",
+      "body": "high-legibility sans serif",
+      "dialogue": "friendly hand-lettered face",
+      "effects": "bold comic display face"
+    },
+    "output_pdf": null,
+    "output_docx": null
+  },
+  "qa": {
+    "subtitle_fidelity_audit": false,
+    "contraction_audit": false,
+    "speaker_attribution_audit": false,
+    "effect_source_placement_audit": false,
+    "all_pages_rendered": false,
+    "all_pages_visually_inspected": false,
+    "final_message_is_earned": false,
+    "legal_scope": "private family use only"
+  }
+}

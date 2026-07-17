@@ -1,0 +1,1417 @@
+{
+  "generated_utc": "2026-06-20T06:46:20.045791+00:00",
+  "library": "S:\\Shows\\Bluey",
+  "episode_count": 141,
+  "episodes": [
+    {
+      "season": 1,
+      "file_episode": 1,
+      "title": "The Magic Xylophone",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E01.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E01.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 2,
+      "title": "Hospital",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E02.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E02.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 3,
+      "title": "Keepy Uppy",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E03.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E03.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 4,
+      "title": "Daddy Robot",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E04.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E04.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 5,
+      "title": "Shadowlands",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E05.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E05.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 6,
+      "title": "The Weekend",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E06.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E06.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 7,
+      "title": "BBQ",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E07.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E07.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 8,
+      "title": "Fruit Bat",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E08.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E08.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 9,
+      "title": "Horsey Ride",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E09.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E09.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 10,
+      "title": "Hotel",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E10.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E10.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 11,
+      "title": "Bike",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E11.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E11.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 12,
+      "title": "Bob Bilby",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E12.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E12.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 13,
+      "title": "Spy Game",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E13.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E13.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 14,
+      "title": "Takeaway",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E14.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E14.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 15,
+      "title": "Butterflies",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E15.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E15.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 16,
+      "title": "Yoga Ball",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E16.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E16.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 17,
+      "title": "Calypso",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E17.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E17.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 18,
+      "title": "The Doctor",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E18.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E18.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 19,
+      "title": "The Claw",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E19.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E19.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 20,
+      "title": "Markets",
+      "duration_seconds": 427.18,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E20.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E20.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 21,
+      "title": "the Blue Mountains",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E21.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E21.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 22,
+      "title": "The Pool",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E22.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E22.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 23,
+      "title": "Shops",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E23.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E23.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 24,
+      "title": "Wagon Ride",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E24.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E24.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 25,
+      "title": "Taxi",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E25.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E25.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 26,
+      "title": "The Beach",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E26.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E26.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 27,
+      "title": "Pirates",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E27.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E27.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 28,
+      "title": "Grannies",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E28.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E28.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 29,
+      "title": "The Creek",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E29.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E29.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 30,
+      "title": "Fairies",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E30.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E30.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 31,
+      "title": "Work",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E31.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E31.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 32,
+      "title": null,
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E32.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E32.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 33,
+      "title": "Trampoline",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E33.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E33.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 34,
+      "title": "The Dump",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E34.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E34.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 35,
+      "title": "Zoo",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E35.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E35.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 36,
+      "title": "Backpackers",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E36.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E36.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 37,
+      "title": "The Adventure",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E37.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E37.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 38,
+      "title": "Copycat",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E38.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E38.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 39,
+      "title": "The Sleepover",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E39.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E39.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 40,
+      "title": "Early Baby",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E40.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E40.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 41,
+      "title": "Mums and Dads",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E41.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E41.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 42,
+      "title": "Hide and Seek",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E42.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E42.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 43,
+      "title": "Camping",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E43.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E43.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 44,
+      "title": "Mount Mumandad",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E44.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E44.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 45,
+      "title": "Kids",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E45.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E45.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 46,
+      "title": "Chickenrat",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E46.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E46.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 47,
+      "title": "Neighbours",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E47.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E47.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 48,
+      "title": null,
+      "duration_seconds": 420.04,
+      "subtitle_available": false,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E48.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E48.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": "ffmpeg exit 4294967274"
+    },
+    {
+      "season": 1,
+      "file_episode": 49,
+      "title": "Asparagus",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E49.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E49.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 50,
+      "title": "Shaun",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E50.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E50.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 51,
+      "title": "Daddy Putdown",
+      "duration_seconds": 428.04,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E51.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E51.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 1,
+      "file_episode": 52,
+      "title": "Verandah Santa",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E52.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S01E52.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 1,
+      "title": "Dance Mode",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E01.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E01.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 2,
+      "title": "Hammerbarn",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E02.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E02.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 3,
+      "title": "Feather-wand",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E03.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E03.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 4,
+      "title": "Squash",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E04.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E04.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 5,
+      "title": "Hairdressers",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E05.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E05.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 6,
+      "title": "Stumpfest",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E06.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E06.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 7,
+      "title": "Favorite Thing",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E07.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E07.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 8,
+      "title": "Daddy Drop-Off",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E08.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E08.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 9,
+      "title": null,
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E09.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E09.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 10,
+      "title": "Rug Island",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E10.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E10.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 11,
+      "title": "Charades",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E11.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E11.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 12,
+      "title": "Sticky Gecko",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E12.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E12.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 13,
+      "title": "Dad Baby",
+      "duration_seconds": 420.13,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E13.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E13.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 14,
+      "title": "Mum School",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E14.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E14.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 15,
+      "title": "Trains",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E15.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E15.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 16,
+      "title": "Army",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E16.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E16.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 17,
+      "title": "Fancy Restaurant",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E17.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E17.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 18,
+      "title": "Piggyback",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E18.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E18.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 19,
+      "title": "The Show",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E19.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E19.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 20,
+      "title": "Tickle\" Unhunh, no way",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E20.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E20.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 21,
+      "title": "Escape",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E21.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E21.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 22,
+      "title": "I Forget",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E22.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E22.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 23,
+      "title": "Queens",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E23.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E23.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 24,
+      "title": "Flat Pack",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E24.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E24.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 25,
+      "title": "Helicopter",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E25.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E25.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 26,
+      "title": "Sleepy-time",
+      "duration_seconds": 469.32,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E26.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E26.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 27,
+      "title": "Grandad",
+      "duration_seconds": 438.09,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E27.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E27.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 28,
+      "title": "Seesaw",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E28.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E28.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 29,
+      "title": "Movies",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E29.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E29.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 30,
+      "title": "Library",
+      "duration_seconds": 438.99,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E30.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E30.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 31,
+      "title": "Barky Boats",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E31.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E31.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 32,
+      "title": "Burger Shop",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E32.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E32.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 33,
+      "title": "Circus",
+      "duration_seconds": 440.04,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E33.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E33.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 34,
+      "title": "Swim School",
+      "duration_seconds": 438.99,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E34.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E34.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 35,
+      "title": "Café",
+      "duration_seconds": 438.09,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E35.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E35.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 36,
+      "title": "Postman",
+      "duration_seconds": 438.09,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E36.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E36.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 37,
+      "title": "The Quiet Game",
+      "duration_seconds": 438.09,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E37.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E37.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 38,
+      "title": "Mr",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E38.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E38.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 39,
+      "title": "Double Babysitter",
+      "duration_seconds": 438.09,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E39.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E39.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 40,
+      "title": "Bad Mood",
+      "duration_seconds": 438.09,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E40.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E40.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 41,
+      "title": "Octopus",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E41.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E41.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 42,
+      "title": "Bin Night",
+      "duration_seconds": 438.09,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E42.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E42.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 43,
+      "title": "Muffin Cone",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E43.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E43.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 44,
+      "title": "Duck Cake",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E44.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E44.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 45,
+      "title": null,
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E45.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E45.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 46,
+      "title": "Road Trip",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E46.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E46.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 47,
+      "title": "Ice Cream",
+      "duration_seconds": 438.09,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E47.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E47.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 48,
+      "title": "Dunny",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E48.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E48.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 49,
+      "title": "Typewriter",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E49.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E49.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 50,
+      "title": "Baby Race",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E50.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E50.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 51,
+      "title": "Christmas Swim",
+      "duration_seconds": 438.09,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E51.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E51.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 2,
+      "file_episode": 52,
+      "title": "Easter",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E52.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S02E52.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 1,
+      "title": "Perfect",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E01.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E01.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 2,
+      "title": "Bedroom",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E02.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E02.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 3,
+      "title": "Obstacle Course",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E03.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E03.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 4,
+      "title": "Promises",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E04.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E04.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 5,
+      "title": "Omelet",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E05.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E05.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 6,
+      "title": "Born Yesterday",
+      "duration_seconds": 438.03,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E06.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E06.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 7,
+      "title": "Mini Bluey",
+      "duration_seconds": 435.37,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E07.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E07.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 8,
+      "title": null,
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E08.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E08.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 9,
+      "title": "Curry Quest",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E09.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E09.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 10,
+      "title": "Magic",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E10.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E10.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 11,
+      "title": "Chest",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E11.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E11.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 12,
+      "title": "Sheepdog",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E12.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E12.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 13,
+      "title": "Housework",
+      "duration_seconds": 422.09,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E13.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E13.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 14,
+      "title": "Pass The Parcel",
+      "duration_seconds": 502.57,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E14.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E14.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 15,
+      "title": "Explorers",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E15.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E15.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 16,
+      "title": "Phones",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E16.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E16.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 17,
+      "title": "Pavlova",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E17.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E17.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 18,
+      "title": null,
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E18.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E18.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 19,
+      "title": "Pizza Girls",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E19.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E19.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 20,
+      "title": "Driving",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E20.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E20.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 21,
+      "title": "Tina",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E21.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E21.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 22,
+      "title": "Whale Watching",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E22.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E22.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 23,
+      "title": "Family Meeting",
+      "duration_seconds": 420.13,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E23.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E23.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 24,
+      "title": "Faceytalk",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E24.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E24.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 25,
+      "title": "Ragdoll",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E25.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E25.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 26,
+      "title": "Fairytale",
+      "duration_seconds": 440.01,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E26.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E26.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 27,
+      "title": "Musical Statues",
+      "duration_seconds": 420.13,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E27.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E27.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 28,
+      "title": "Stories",
+      "duration_seconds": 420.13,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E28.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E28.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 29,
+      "title": null,
+      "duration_seconds": 420.13,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E29.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E29.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 30,
+      "title": "Turtleboy",
+      "duration_seconds": 420.13,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E30.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E30.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 31,
+      "title": "Onesies",
+      "duration_seconds": 420.13,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E31.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E31.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 32,
+      "title": "Tradies",
+      "duration_seconds": 480.13,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E32.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E32.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 33,
+      "title": "Granny Mobile",
+      "duration_seconds": 420.13,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E33.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E33.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 34,
+      "title": "Space",
+      "duration_seconds": 420.13,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E34.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E34.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 35,
+      "title": "Smoochy Kiss",
+      "duration_seconds": 420.13,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E35.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E35.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 36,
+      "title": "Dirt",
+      "duration_seconds": 420.13,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E36.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E36.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    },
+    {
+      "season": 3,
+      "file_episode": 37,
+      "title": "The Decider",
+      "duration_seconds": 420.13,
+      "subtitle_available": true,
+      "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E37.720p.WEBRip.x264-GalaxyTV.mkv",
+      "filename": "Bluey.S03E37.720p.WEBRip.x264-GalaxyTV.mkv",
+      "inspection_error": null
+    }
+  ]
+}

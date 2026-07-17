@@ -1,0 +1,67 @@
+{
+  "pdf": {
+    "pages": 21,
+    "page_sizes_points": [
+      [
+        792.0,
+        612.0
+      ]
+    ],
+    "fonts": {
+      "/F1": {
+        "base_font": "/Helvetica",
+        "embedded": false,
+        "standard_base14": true
+      },
+      "/F2+0": {
+        "base_font": "/AAAAAA+ComicSansMS-Bold",
+        "embedded": true,
+        "standard_base14": false
+      },
+      "/F3+0": {
+        "base_font": "/AAAAAA+SegoePrint-Bold",
+        "embedded": true,
+        "standard_base14": false
+      },
+      "/F4+0": {
+        "base_font": "/AAAAAA+ComicSansMS",
+        "embedded": true,
+        "standard_base14": false
+      },
+      "/F5+0": {
+        "base_font": "/AAAAAA+TrebuchetMS",
+        "embedded": true,
+        "standard_base14": false
+      }
+    },
+    "all_nonstandard_fonts_embedded": true,
+    "image_objects": 21,
+    "image_sizes_pixels": [
+      [
+        2560,
+        1440
+      ]
+    ]
+  },
+  "docx": {
+    "inline_images": 21,
+    "image_sizes_pixels": [
+      [
+        2560,
+        1440
+      ]
+    ],
+    "images_missing_alt_text": [],
+    "page_breaks": 20
+  },
+  "render": {
+    "rendered_pages": 21,
+    "render_sizes_pixels": [
+      [
+        1870,
+        1445
+      ]
+    ]
+  },
+  "pass": true
+}

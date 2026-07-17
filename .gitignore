@@ -1,0 +1,14 @@
+.deps/
+assets/
+docx/
+output/
+pdf/
+reports/
+tmp/
+
+project/episode_work/
+project/episodes/*
+!project/episodes/EPISODE_TEMPLATE.json
+
+tools/__pycache__/
+*.pyc

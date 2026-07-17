@@ -1,0 +1,216 @@
+{
+  "generated": "2026-06-20",
+  "series_policy": {
+    "scope": "Private family-use adaptations; do not list or sell without a Bluey license.",
+    "research_order": [
+      "embedded subtitles and frame-accurate episode review",
+      "official Bluey synopsis and episode page",
+      "IMDb plot summary and credits",
+      "community discussion for resonant details, treated as interpretation rather than canon"
+    ],
+    "editorial_rule": "Preserve the episode's jokes, pauses, ambiguity, and emotional turn. State only what a child needs to follow the action; let pictures and character behavior carry subtext.",
+    "length_rule": "Scale pages and words to runtime, narrative density, and emotional pacing rather than forcing every episode into one template."
+  },
+  "episodes": [
+    {
+      "rank": 1,
+      "title": "Sleepytime",
+      "official": {"season": 2, "episode": 26},
+      "local": {
+        "file_episode": 26,
+        "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E26.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+        "duration_seconds": 469.32,
+        "status": "verified_by_embedded_title"
+      },
+      "sources": {
+        "official": "https://www.bluey.tv/watch/season-2/sleepytime/",
+        "imdb": "https://www.imdb.com/title/tt12539164/",
+        "community": ["https://www.reddit.com/r/bluey/comments/120rjwi/why_is_sleepytime_the_goat/"]
+      },
+      "story_thesis": "Bingo's brave step toward sleeping independently is held inside Mum's dependable love, even when Mum cannot be seen.",
+      "editorial_care": "Let the cosmic imagery, music-shaped rhythm, and recurring warmth do most of the emotional work; avoid explaining every dream symbol.",
+      "final_message_seed": "Growing brave doesn't mean growing away from love.",
+      "target_story_pages": [22, 26],
+      "target_words": [450, 650]
+    },
+    {
+      "rank": 2,
+      "title": "Camping",
+      "official": {"season": 1, "episode": 43},
+      "local": {
+        "file_episode": 43,
+        "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E43.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+        "duration_seconds": 438.03,
+        "status": "verified_by_embedded_title"
+      },
+      "sources": {
+        "official": "https://www.bluey.tv/watch/season-1/camping/",
+        "imdb": "https://www.imdb.com/title/tt12587960/",
+        "community": ["https://www.reddit.com/r/bluey/comments/r6t5x5/bluey_and_jean_luc_at_the_end_of_camping/"]
+      },
+      "story_thesis": "A friendship can be real even when words are few and time together is short.",
+      "editorial_care": "Preserve the language barrier and the quiet passage of time; the reunion lands because the book does not promise it too early.",
+      "final_message_seed": "Some friends stay with us, even while we're apart.",
+      "target_story_pages": [20, 24],
+      "target_words": [550, 750]
+    },
+    {
+      "rank": 3,
+      "title": "Cricket",
+      "official": {"season": 3, "episode": 47},
+      "local": {"file_episode": null, "path": null, "duration_seconds": null, "status": "source_needed_season_3_library_ends_at_file_e37"},
+      "sources": {
+        "official": "https://www.bluey.tv/watch/season-3/cricket/",
+        "imdb": "https://www.imdb.com/title/tt27896202/",
+        "community": ["https://www.reddit.com/r/bluey/comments/196syo2/for_those_that_dont_understand_the_meaning/"]
+      },
+      "story_thesis": "Rusty's skill is built through patient practice, but his character shines in how he uses it—with courage, humility, and kindness.",
+      "editorial_care": "Keep the sporting details readable for non-cricket families and preserve the little-sister moment rather than reducing the episode to perseverance alone.",
+      "final_message_seed": "Practice builds what you can do; kindness shows who you are.",
+      "target_story_pages": [22, 28],
+      "target_words": [650, 900]
+    },
+    {
+      "rank": 4,
+      "title": "Baby Race",
+      "official": {"season": 2, "episode": 49},
+      "local": {
+        "file_episode": 50,
+        "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E50.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+        "duration_seconds": 440.01,
+        "status": "verified_by_embedded_title_numbering_differs_from_official"
+      },
+      "sources": {
+        "official": "https://www.bluey.tv/watch/season-2/baby-race/",
+        "imdb": "https://www.imdb.com/title/tt13429908/",
+        "community": ["https://www.reddit.com/r/bluey/comments/pzhgca/youre_doing_great_im_a_mom_of_6_made_me_cry_like/"]
+      },
+      "story_thesis": "Children reach milestones in their own ways, and worried parents deserve reassurance rather than comparison.",
+      "editorial_care": "Keep Chilli's insecurity tender and recognizable; 'You're doing great' is the emotional hinge, not an added lecture.",
+      "final_message_seed": "There's no single right way to grow—and you're doing great.",
+      "target_story_pages": [20, 24],
+      "target_words": [600, 800]
+    },
+    {
+      "rank": 5,
+      "title": "The Sign",
+      "official": {"season": 3, "episode": 49},
+      "local": {"file_episode": null, "path": null, "duration_seconds": null, "status": "source_needed_season_3_library_ends_at_file_e37"},
+      "sources": {
+        "official": "https://www.bluey.tv/watch/season-3/the-sign/",
+        "imdb": "https://www.imdb.com/title/tt31491044/",
+        "community": ["https://www.reddit.com/r/bluey/comments/1oe5hpk/lets_talk_about_people_being_mixed_on_the_signs/"]
+      },
+      "story_thesis": "A family faces uncertainty, change, and competing hopes; the ending matters because no one can know in advance whether a turn is good or bad.",
+      "editorial_care": "Retain the farmer-story ambiguity and the adults' mixed feelings. This 28-minute special needs room for parallel threads and should not be compressed to standard length.",
+      "final_message_seed": "We can't always know what a change will bring—but we can face it together.",
+      "target_story_pages": [44, 56],
+      "target_words": [1400, 2200]
+    },
+    {
+      "rank": 6,
+      "title": "Granny Mobile",
+      "official": {"season": 3, "episode": 33},
+      "local": {
+        "file_episode": 33,
+        "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E33.720p.WEBRip.x264-GalaxyTV.mkv",
+        "duration_seconds": 420.13,
+        "status": "verified_by_embedded_title"
+      },
+      "sources": {
+        "official": "https://www.bluey.tv/watch/season-3/granny-mobile/",
+        "imdb": "https://www.imdb.com/title/tt20262876/",
+        "community": ["https://www.reddit.com/r/bluey/comments/152y35s/granny_mobile_is_the_greatest_and_funniest/"]
+      },
+      "story_thesis": "Muffin's enormous pretend-granny confidence becomes exactly what Doreen needs to stand her ground.",
+      "editorial_care": "Let the comedy roar, but make the emotional payoff belong to Doreen discovering her own assertiveness rather than Muffin simply being loud.",
+      "final_message_seed": "Sometimes a little borrowed courage helps us find our own.",
+      "target_story_pages": [20, 24],
+      "target_words": [650, 850]
+    },
+    {
+      "rank": 7,
+      "title": "Fairytale",
+      "official": {"season": 3, "episode": 26},
+      "local": {
+        "file_episode": 26,
+        "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E26.720p.WEBRip.x264-GalaxyTV.mkv",
+        "duration_seconds": 440.01,
+        "status": "verified_by_embedded_title"
+      },
+      "sources": {
+        "official": "https://www.bluey.tv/watch/season-3/fairytale/",
+        "imdb": "https://www.imdb.com/title/tt15551050/",
+        "community": ["https://www.reddit.com/r/bluey/comments/rh3osg/episode_chat_s03a_e26_fairytale/"]
+      },
+      "story_thesis": "Bandit's very 1980s childhood story blends sibling consequences, an unexpected rescue, and the unreliable sparkle of family memory.",
+      "editorial_care": "Frame rougher sibling behavior as a remembered caution, preserve the disputed-memory joke, and keep the fairytale reveal playful rather than definitive.",
+      "final_message_seed": "Family stories change in the telling—but the kindness inside them can last.",
+      "target_story_pages": [22, 26],
+      "target_words": [700, 900]
+    },
+    {
+      "rank": 8,
+      "title": "Flat Pack",
+      "official": {"season": 2, "episode": 24},
+      "local": {
+        "file_episode": 24,
+        "path": "S:\\Shows\\Bluey\\Bluey.S02.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S02E24.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+        "duration_seconds": 438.03,
+        "status": "verified_by_embedded_title"
+      },
+      "sources": {
+        "official": "https://www.bluey.tv/watch/season-2/flatpack/",
+        "imdb": "https://www.imdb.com/title/tt12587840/",
+        "community": ["https://www.reddit.com/r/bluey/comments/g0nb8f/symbolism_in_flat_pack/"]
+      },
+      "story_thesis": "A pile of packaging becomes a wordless sweep through evolution, growing up, and the loving cycle between parents and children.",
+      "editorial_care": "Keep the cosmic and afterlife reading available but unstated. The growing-up montage and final invitation to sit with Mum and Dad should carry it.",
+      "final_message_seed": "The things we make—and the love we give—can carry on growing.",
+      "target_story_pages": [20, 24],
+      "target_words": [500, 700]
+    },
+    {
+      "rank": 9,
+      "title": "The Creek",
+      "official": {"season": 1, "episode": 29},
+      "local": {
+        "file_episode": 29,
+        "path": "S:\\Shows\\Bluey\\Bluey.S01.COMPLETE.720p.DSNP.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S01E29.720p.DSNP.WEBRip.x264-GalaxyTV.mkv",
+        "duration_seconds": 438.03,
+        "status": "verified_by_embedded_title"
+      },
+      "sources": {
+        "official": "https://www.bluey.tv/watch/season-1/the-creek/",
+        "imdb": "https://www.imdb.com/title/tt9377992/",
+        "community": ["https://www.reddit.com/r/bluey/comments/18497yb/rate_the_episode_the_creek_s1e29/"]
+      },
+      "story_thesis": "Bluey moves beyond the familiar playground and discovers that a slightly scary wild place can become full of wonder.",
+      "editorial_care": "Use sensory narration sparingly and give the quiet nature frames space; courage arrives by increments, not through a speech.",
+      "final_message_seed": "A new place can feel strange before it feels wonderful.",
+      "target_story_pages": [20, 24],
+      "target_words": [550, 750]
+    },
+    {
+      "rank": 10,
+      "title": "Onesies",
+      "official": {"season": 3, "episode": 31},
+      "local": {
+        "file_episode": 31,
+        "path": "S:\\Shows\\Bluey\\Bluey.S03.COMPLETE.720p.WEBRip.x264-GalaxyTV[TGx]\\Bluey.S03E31.720p.WEBRip.x264-GalaxyTV.mkv",
+        "duration_seconds": 420.13,
+        "status": "verified_by_embedded_title"
+      },
+      "sources": {
+        "official": "https://www.bluey.tv/watch/season-3/onesies/",
+        "imdb": "https://www.imdb.com/title/tt20262336/",
+        "community": ["https://www.reddit.com/r/bluey/comments/vdx1tl/episode_chat_s03b_e05_onesies/"]
+      },
+      "story_thesis": "Brandy's joyful visit carries an ache she cannot neatly solve, while reconnecting with Chilli lets love and sadness share the same room.",
+      "editorial_care": "Do not clinically explain Brandy's infertility to young readers. Preserve the visual echo, Chilli's gentle words, Brandy's pause, and the sisters' reconnection so adults can understand without pinning the feeling down for children.",
+      "final_message_seed": "Some wishes hurt to carry; love can still help us come close again.",
+      "target_story_pages": [20, 24],
+      "target_words": [500, 700]
+    }
+  ]
+}
