@@ -1,0 +1,12 @@
+# Project-local configuration for Gemma 4 through Ollama.
+model = "gemma4:12b"
+model_provider = "ollama"
+oss_provider = "ollama"
+model_context_window = 62768
+model_supports_reasoning_summaries = false
+approval_policy = "never"
+sandbox_mode = "workspace-write"
+
+[features]
+enable_fanout = false
+multi_agent = false
