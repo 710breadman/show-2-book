@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "revision": 0,
+  "overall_status": "in_progress",
+  "current_sprint": "S000",
+  "completed_sprints": [],
+  "attempts": {},
+  "active_blockers": [],
+  "last_verification": null,
+  "last_handoff": null,
+  "model": {
+    "provider": "ollama",
+    "name": "gemma4:12b",
+    "context_window": 62768
+  },
+  "rules": {
+    "max_repair_attempts": 2,
+    "max_files_per_task": 8,
+    "fresh_context_per_sprint": true
+  }
+}
