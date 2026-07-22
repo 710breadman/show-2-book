@@ -1,14 +1,62 @@
+# Python and tools
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
 .deps/
+
+# Private/local media and derived assets
+private/*
+!private/.gitkeep
 assets/
-docx/
 output/
 pdf/
+docx/
 reports/
 tmp/
+cache/
+research_cache/
+browser_profiles/
 
+# Licensed episode work and local indexes
 project/episode_work/
 project/episodes/*
 !project/episodes/EPISODE_TEMPLATE.json
+project/library_index.csv
+project/library_index.json
+**/*.mkv
+**/*.mp4
+**/*.avi
+**/*.mov
+**/*.webm
+**/*.srt
+**/*.vtt
+**/*.ass
 
-tools/__pycache__/
-*.pyc
+# Secrets and local settings
+.env
+config/local.toml
+*.key
+*.pem
+*.pfx
+
+# Build/package
+build/
+dist/
+*.spec
+*.zip
+
+# Autonomous run logs and generated prompts
+autonomy/NEXT_PROMPT.md
+autonomy/run_logs/
+artifacts/failed_outputs/
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
