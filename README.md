@@ -27,11 +27,13 @@ The approved books remain the visual quality floor. The v2 work focuses on makin
 - `SPRINT_STATE.json` — machine-readable current sprint
 - `ROADMAP.md` — milestone roadmap
 - `SPRINTS.md` — implementation catalog
-- `sprints/manifest.json` — full dependency/acceptance manifest
-- `docs/AUTONOMOUS_V2_PLAN.md` — architecture, crew, tools, privacy, and workflow
+- `sprints/manifest.json` — machine-readable sprint dependencies
+- `docs/AUTONOMOUS_V2_PLAN.md` — architecture, crew, tools, privacy, workflow, and acceptance principles
 - `project/MASTER_BRIEF.md` — legacy editorial foundation
 - `project/EDITORIAL_AND_DESIGN_STANDARD.md` — established visual/editorial rules
 - `tools/build_episode_storybook.py` — current JSON-driven builder
+
+The standalone starter pack contains the full acceptance criteria, self-contained sprint packets, bootstrap scripts, starter code, tests, and XLSX tracker.
 
 ## Product rules
 
